@@ -4,3 +4,8 @@
     "nodemailer": "^7.0.2"
   }
 }
+{
+  "scripts": {
+    "start": "node server.js"  // or any command to start your app
+  }
+}
